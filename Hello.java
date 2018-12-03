@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Hello Litwave!!");
 		System.out.println("Hello nemonemo!!");
 		System.out.println("Hello semosemo!!");
+		System.out.println("Hello another!!");
 	}
 }
